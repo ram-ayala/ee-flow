@@ -13,7 +13,7 @@
 
     - name: pull image
       containers.podman.podman_image:
-        name: httpd
+        name: docker.io/httpd
         pull: true
         tag: latest
 
