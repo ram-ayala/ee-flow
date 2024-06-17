@@ -1,4 +1,3 @@
 ---
 collections:
-  - name: amazon.aws
-    versions: '=8.0.1'
+  - name: snagoor-app_common
