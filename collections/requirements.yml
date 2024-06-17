@@ -1,3 +1,4 @@
 ---
 collections:
-  - name: opensvc.cluster
+  - name: amazon.aws
+    versions: '=8.0.1'
